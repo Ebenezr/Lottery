@@ -1,1 +1,1 @@
-lot
+Lottery game 
